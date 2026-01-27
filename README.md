@@ -104,6 +104,13 @@ Popup behavior:
 
 ---
 
+## 📜 License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
+See the [LICENSE](LICENSE) file for full details.
+
+---
+
 ## 🛠️ Installation & Local Setup
 
 ### Clone the Repository
@@ -112,3 +119,26 @@ Popup behavior:
 git clone https://github.com/Ashok-777/Randoverse1.git
 cd Randoverse1
 ```
+## 🛠️ Run the Project
+
+### 1. Open in Browser
+Open `index.html` in any modern browser (Chrome, Firefox, Edge, etc.).
+
+### 2. Optional: Live Server (Recommended for Development)
+Using a local server is useful if you plan to edit files and want automatic refresh.
+
+```bash
+# Install live-server globally (requires Node.js)
+npm install -g live-server
+
+# Start the server in the project folder
+live-server
+```
+---
+
+## 🚀 Deployment
+
+**Live Demo:** [RandoVerse Live Demo](https://randoverse1.vercel.app/)
+
+---
+
