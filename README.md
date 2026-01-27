@@ -138,7 +138,12 @@ live-server
 
 ## 🚀 Deployment
 
-**Live Demo:** [RandoVerse Live Demo](https://randoverse1.vercel.app/)
+**Live Demo:** [RandoVerse1](https://randoverse1.vercel.app/)
 
 ---
 
+<p align="center">
+  © <a href="https://github.com/Ashok-777" target="_blank">Ashok-777</a> | Crafted with ❤️ and curiosity
+</p>
+
+---
